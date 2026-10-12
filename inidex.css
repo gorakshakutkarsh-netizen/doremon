@@ -1,0 +1,446 @@
+.back
+	{
+	background-color:#F1FAFE;	
+	}
+	
+.navbar
+	{
+	float:left;
+	height:15%;
+	width:102.5%;
+	background-color:white;
+	margin-left:-2%;
+	margin-top:-1%;
+	}	
+	
+.doremon	
+	{
+	float:left;
+	height:40%;
+	width:3%;
+	margin-left:4%;
+	margin-top:2%;	
+	}	
+	
+.doremons
+	{
+	float:left;
+	height:60%;
+	width:6%;
+	margin-left:1%;
+	margin-top:1.5%;
+	}	
+	
+.homes
+	{
+	float:left;
+	color:#498AAB;
+	text-decoration:none;
+	font-size:18px;
+	margin-left:10%;
+	margin-top:2.8%;
+	}	
+	
+.doramon
+	{
+	float:left;	
+	color:#498AAB;
+	text-decoration:none;
+	font-size:18px;
+	margin-left:3%;
+	margin-top:2.8%;
+	}	
+	
+.search
+	{
+	float:left;
+	height:35%;
+	width:20%;
+	background-color:#D4EAFA;
+	margin-left:8%;
+	margin-top:2%;
+	border-radius:20px;
+	padding-top:0.5%;
+	}	
+	
+.sounds
+	{
+	float:left;
+	font-size:20px;	
+	}	
+	
+.inpus
+	{
+	float:right;
+	height:80%;
+	margin-right:20%;
+	background-color:#D4EAFA;
+	margin-top:0,5%;
+	border:1px solid #D4EAFA;
+	}	
+	
+.base
+	{
+	float:left;
+	background-image: url('group.jpg');
+	background-size: cover;
+	height:85%;
+	width:101.5%;
+	background-position: center;
+	margin-left:-1%;
+	}	
+	
+.doremonsss
+	{
+	float:left;
+	height:20%;
+	width:20%;
+	margin-left:38%;
+	margin-top:3%;
+	}
+	
+.has
+	{
+	float:left;
+	color:white;
+	margin-top:18%;
+	margin-left:-16%;
+	}	
+	
+.hass
+	{
+	float:left;
+	color:white;
+	margin-top:20%;
+	margin-left:-20%;
+	
+	}	
+	
+.da
+	{
+	float:left;
+	height:10%;
+	width:10%;
+	margin-top:23%;
+	margin-left:-22%;
+	border:1px solid white;
+	border-radius:12px;
+	color:WHITE
+	}	
+	
+	
+.das
+	{
+	float:left;
+	height:10%;
+	width:10%;
+	margin-top:23%;
+	margin-left:-11%;
+	border:1px solid white;
+	border-radius:12px;
+	}	
+	
+.watch
+	{
+	float:left;
+	font-size:16px;
+	margin-top:10%;
+	margin-left:5%;
+	color:white;
+	}	
+	
+.charger
+	{
+	float:left;
+	height:50%;
+	width:55%;
+	margin-top:5%;
+	margin-left:2%;
+	}	
+	
+.hello
+	{
+	float:left;
+	height:18%;
+	width:55%;
+	color:030164;
+	}	
+	
+.frhan
+	{
+	float:left;
+	font-size:20px;
+	margin-left:3%;
+	margin-top:2.2%;
+	color:030164;
+	}	
+
+.the
+	{
+	float:left;
+	height:75%;
+	width:30%;
+	background-color:blue;
+	margin-top:8%;
+	margin-left:-50%;
+	border-radius:12px;
+	}
+
+.thes
+	{
+	float:left;
+	height:75%;
+	width:30%;
+	background-color:blue;
+	margin-top:8%;
+	margin-left:-18%;
+	border-radius:12px;
+	}
+	
+.thess
+	{
+	float:left;
+	height:75%;
+	width:30%;
+	background-color:blue;
+	margin-top:8%;
+	margin-left:2%;
+	border-radius:12px;
+	}
+	
+.mobile
+	{
+	float:left;
+	height:65%;
+	width:100%;
+	background-color:red;
+	border-radius:12px;
+	}	
+	
+.mobiles
+	{
+	float:left;
+	height:100%;
+	width:100%;
+	background-color:red;
+	border-radius:12px;
+	}	
+	
+.bio
+	{
+	float:left;
+	height:60%;
+	width:100%;
+	background-color:white;
+	margin-top:-3%;
+	}	
+	
+.tvs
+	{
+	float:left;
+	color:030164;
+	font-size:18px;
+	margin-top:5%;
+	margin-left:5%;
+	}
+	
+.tvss
+	{
+	float:left;
+	color:gray;
+	font-size:18px;
+	margin-top:-4%;
+	margin-left:5%;
+	}	
+	
+.bnak
+	{
+	float:left;	
+	height:55%;
+	width:13%;
+	background-color:#1A8DE0;
+	margin-left:5%;
+	margin-top:5%;
+	border-radius:10px;
+	}	
+	
+.bnaks
+	{
+	float:left;	
+	height:100%;
+	width:105%;
+	border-radius:10px;
+	}	
+	
+
+.bnaka
+	{
+	float:left;	
+	height:55%;
+	width:14%;
+	background-color:#1A8DE0;
+	margin-left:3%;
+	margin-top:5%;
+	border-radius:10px;
+	}		
+	
+.rohit
+	{
+	float:left;
+	font-size:20px;
+	margin-left:20%;
+	}	
+	
+.hand
+	{
+	float:left;
+	height:78%;
+	width:85%;
+	background-color:#FFFFFF;
+	margin-left:6%;
+	border-radius:12px;
+	margin-top:-5%;
+	}	
+	
+.dh
+	{
+	float:left;
+	margin-left:15%;
+	font-size:18px;
+	}	
+	
+.dhs
+	{
+	float:left;
+	margin-left:6%;
+	font-size:18px;
+	margin-top:-14%;
+	}	
+	
+.dha
+	{
+	float:left;
+	margin-left:15%;
+	font-size:18px;
+	margin-top:-5%;
+	}	
+	
+.dhs
+	{
+	float:left;
+	margin-left:6%;
+	font-size:18px;
+	margin-top:-14%;
+	}	
+	
+.ujjain
+	{
+	float:left;
+	height:30%;
+	width:50%;
+	background-color:white;
+	margin-top:5%;
+	margin-left:5%;
+	margin-bottom:5%;
+	border-radius:12px;
+	}	
+
+.ujjains
+	{
+	float:left;
+	height:30%;
+	width:30%;
+	background-color:white;
+	margin-top:5%;
+	margin-left:5%;
+	margin-bottom:5%;
+	border-radius:12px;
+	}	
+	
+.last
+	{
+	float:left;
+	height:40%;
+	width:12%;
+	margin-top:10%;
+	border-radius:90px;
+	margin-left:-20%;
+	}	
+	
+.lasts
+	{
+	float:left;
+	height:40%;
+	width:12%;
+	margin-top:10%;
+	border-radius:90px;
+	margin-left:-6%;
+	}	
+	
+.lastss
+	{
+	float:left;
+	height:40%;
+	width:12%;
+	margin-top:10%;
+	border-radius:90px;
+	margin-left:2%;
+	}	
+	
+.panda
+	{
+	float:left;
+	height:40%;
+	width:18%;
+	margin-top:15%;
+	border-radius:12px;
+	margin-left:-45%;
+	}	
+	
+.pandas
+	{
+	float:left;
+	height:40%;
+	width:18%;
+	margin-top:15%;
+	border-radius:12px;
+	margin-left:-25%;
+	}	
+	
+.pandass
+	{
+	float:left;
+	height:40%;
+	width:18%;
+	margin-top:15%;
+	border-radius:12px;
+	margin-left:-5%;
+	}
+	
+.pandasss
+	{
+	float:left;
+	height:40%;
+	width:18%;
+	margin-top:15%;
+	border-radius:12px;
+	margin-left:5%;
+	}	
+	
+.done
+	{
+	float:left;
+	height:15%;
+	width:101.6%;
+	background-color:#1674C5;
+	margin-left:-1%;
+	}	
+	
+.ata
+	{
+	float:left;	
+	height:70%;
+	width:15%;
+	margin-left:40%;
+	margin-top:1.5%;
+	}	
